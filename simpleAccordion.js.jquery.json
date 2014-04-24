@@ -1,0 +1,29 @@
+{
+  "name": "simpleAccordion.js",
+  "title": "simpleAccordion",
+  "description": "Small 344 bytes Accordion jQuery Plugin",
+  "keywords": [
+    "interface",
+	"ui",
+    "accordion",
+    "content",
+    "layout"
+    ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Masquerade Circus",
+    "url": "http://masquerade-circus.creaken.com"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }, {
+    "type": "GPLv2",
+    "url": "http://opensource.org/licenses/GPL-2.0"
+  }],
+  "homepage": "https://github.com/Masquerade-Circus/simpleAccordion.js",
+  "demo": "http://masquerade-circus.creaken.com/Plugins/simpleAccordion/",
+  "dependencies": {
+    "jquery": ">=1.4.x"
+  }
+}
