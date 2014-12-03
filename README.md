@@ -1,7 +1,7 @@
 simpleAccordion.js
 =================
 
-Small 344 bytes Accordion jQuery Plugin.
+Small 319 bytes simple Accordion jQuery Plugin.
 
 ## Demo
 http://masquerade-circus.creaken.com/Plugins/simpleAccordion/
